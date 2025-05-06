@@ -1,5 +1,9 @@
-# gas-station-prices
+## Gas Station Price Tracker
 
-Track gas prices at different stations over time. 
-Users can see current prices for nearby gas stations, query historical prices, and view analytics (ex. which station is cheapest, average prices, trends, etc)
-
+This project allows users to:
+- View real-time gas prices across multiple gas stations
+- View historical gas prices across multiple gas stations
+- Query for the cheapest stations
+- See analytics like average prices
+- Cache recent data for performance
+- Persist user UI preferences across sessions
